@@ -1,2 +1,2 @@
-FROM alpine:3.8
-MAINTAINER wuliyingli
+FROM index.alauda.cn/alauda/hello-world:latest
+MAINTAINER liuzongyao
